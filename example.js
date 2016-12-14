@@ -58,14 +58,12 @@ alert(age);
 // var temp_celsius = (temp_fahrenheit -32) /1.8;
 //
 
-
+//
 // alert("10" + 20);
 // alert(10 + 20);
-//
-// var year = 2010;
-// var message = "The year is";
-// messgae += year;
-//
-// alert(message);
 
-alert("Hello world!")
+var year = 2010;
+var message1 = "The year is";
+message1 += year;
+
+alert(message1);
