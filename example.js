@@ -42,12 +42,30 @@ alert(age);
 // lennon.living = false;
 
 
-var lennon = {name:"john",year:1940,living:false};
+// var lennon = {name:"john",year:1940,living:false};
+//
+// // var beatles = Array()
+// // beatles[0] = lennon
+//
+// var bealts = {};
+//
+// bealts.vocalist = lennon;
 
-// var beatles = Array()
-// beatles[0] = lennon
+// var total = (1+4) * 5;
+//
+// var temp_fahrenheit = 95;
+//
+// var temp_celsius = (temp_fahrenheit -32) /1.8;
+//
 
-var bealts = {};
 
-bealts.vocalist = lennon;
+// alert("10" + 20);
+// alert(10 + 20);
+//
+// var year = 2010;
+// var message = "The year is";
+// messgae += year;
+//
+// alert(message);
 
+alert("Hello world!")
