@@ -5,4 +5,4 @@ Makefile
 *.pro.user
 *.o
 *.dylib
-/idea
+/.idea
