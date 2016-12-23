@@ -1,0 +1,26 @@
+/*body {*/
+    /*color: white;*/
+    /*background-color: black;*/
+/*}*/
+
+
+/*.sale {*/
+    /*font-style: italic;*/
+/*}*/
+
+
+/*li.sale2{*/
+    /*text-transform: uppercase;*/
+/*}*/
+
+
+#purchases {
+    border: 1px solid white;
+    background-color:#333;
+    color:#ccc;
+    padding:1em;
+}
+
+#purchases li{
+    font-weight: bold;
+}
