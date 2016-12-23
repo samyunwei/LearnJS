@@ -62,10 +62,11 @@ alert(age);
 // alert("10" + 20);
 // alert(10 + 20);
 //
-// var year = 2010;
-// var message = "The year is";
-// messgae += year;
-//
-// alert(message);
 
-alert("Hello world!")
+var year = 2010;
+var messageaa = "The year is";
+
+messageaa += year;
+
+alert(messageaa);
+
