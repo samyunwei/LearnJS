@@ -67,3 +67,47 @@ article img{
 }
 
 
+header nav a.here:link,
+header nav a.here:visited,
+header nav a.here:hover,
+header nav a.here:active
+{
+    color: #eef;
+    background-color: #799;
+}
+
+#about header{
+    background-image: url(../images/lineup.gif);
+}
+
+#photos header{
+    background-image: url(../images/basshead.gif);
+}
+
+#live header{
+    background-image: url(../images/bassist.gif);
+}
+
+#contact header{
+    background-image: url(../images/drummer.gif);
+}
+
+#slideshow{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    overflow: hidden;
+}
+
+#preview{
+    position: absolute;
+    border-width: 0;
+    outline-width: 0;
+}
+
+#frame{
+    position: absolute;
+    top:0;
+    left: 0;
+    z-index: 99;
+}
