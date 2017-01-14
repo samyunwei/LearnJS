@@ -69,3 +69,12 @@ article img{
     outline-width: .1em;
     outline-style: solid;
 }
+
+
+label{
+    display: block;
+}
+
+fieldset{
+    border: 0;
+}
